@@ -23,10 +23,3 @@ function countdown(number) {
   }
 
 
-
-function writeCards(["Lisa", "Kaitlin", "Jan"], "Surprise") {
-    for (let i = 0; i < writeCards.length; i++) {
-        console.log(`Thank you, ${writeCards}, for the wonderful birthday gift!`);
-    }
-    return writeCards;
-}
