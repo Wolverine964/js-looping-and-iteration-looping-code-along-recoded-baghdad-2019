@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const gifts = ['Lisa', 'Kaitlin', 'Jan'];
 
 function writeCards(gifts) {
@@ -22,7 +21,7 @@ function countdown(number) {
  }
 
   }
-=======
+
 
 
 function writeCards(["Lisa", "Kaitlin", "Jan"], "Surprise") {
@@ -31,4 +30,3 @@ function writeCards(["Lisa", "Kaitlin", "Jan"], "Surprise") {
     }
     return writeCards;
 }
->>>>>>> c7aa465c2cc101b4ca122b3ffdbfc9638b6cbb97
