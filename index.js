@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const gifts = ['Lisa', 'Kaitlin', 'Jan'];
 
 function writeCards(gifts) {
@@ -22,13 +21,5 @@ function countdown(number) {
  }
 
   }
-=======
 
 
-function writeCards(["Lisa", "Kaitlin", "Jan"], "Surprise") {
-    for (let i = 0; i < writeCards.length; i++) {
-        console.log(`Thank you, ${writeCards}, for the wonderful birthday gift!`);
-    }
-    return writeCards;
-}
->>>>>>> c7aa465c2cc101b4ca122b3ffdbfc9638b6cbb97
